@@ -1,0 +1,21 @@
+# System files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editor files
+.vscode/
+*.sublime-project
+*.sublime-workspace
+
+# Temporary files
+*.tmp
+*.temp
+~*
+
+# Node modules (se necessario in futuro)
+node_modules/
+
+# Build output (se necessario in futuro)
+dist/
+build/
